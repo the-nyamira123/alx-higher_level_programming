@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - NYAMIRA ORANGI 
+# Author - NYAMIRA BABY 
 
 def magic_calculation(a, b, c):
     """Match bytecode provided by Holberton School."""
